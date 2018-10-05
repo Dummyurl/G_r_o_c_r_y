@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "991322304410",
+    "firebase_url": "https://ajwdy-d062a.firebaseio.com",
+    "project_id": "ajwdy-d062a",
+    "storage_bucket": "ajwdy-d062a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991322304410:android:0246ab2679297e6c",
+        "android_client_info": {
+          "package_name": "ajwdy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991322304410-chb6f5tmm9c6kh634b0snd0t7efeo094.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ajwdy.app",
+            "certificate_hash": "6372bc45b12503ac6e12f7da6235d2526a66aa35"
+          }
+        },
+        {
+          "client_id": "991322304410-ghc4v4bf49k5ps1uharumjjcq4th36hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbnuBcACy43q7sCWpP5IgKsmE3apBXxF4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991322304410-ghc4v4bf49k5ps1uharumjjcq4th36hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
